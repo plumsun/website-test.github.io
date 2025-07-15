@@ -1,0 +1,3 @@
+- [首页](/README.md)
+- [博客](/blog/2024-01-01-hello.md)
+- [图片](/images/thumb1.png) 

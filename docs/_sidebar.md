@@ -1,0 +1,9 @@
+- [首页](/README.md)
+- [博客]
+  - [Hello World](/blog/2024-01-01-hello.md)
+  - [学习笔记](/blog/2024-01-02-note.txt)
+  - [HTML 示例](/blog/2024-01-03-demo.html)
+  - [Python 代码](/blog/2024-01-04-code.py)
+- [图片]
+  - [缩略图1](/images/thumb1.png)
+  - [缩略图2](/images/thumb2.jpg) 
